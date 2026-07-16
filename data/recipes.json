@@ -149,15 +149,28 @@
     "difficulty": "Mudah",
     "tags": ["ayam", "creamy", "jamur"],
     "ingredients": [
-      "1 buah Bawang putih",
-      "1 sdt Merica",
-      "250 gram Dada Ayam Mentah",
-      "1 sdm Minyak goreng"
+      "250 gram Dada Ayam Mentah (diiris tipis atau dipukul pipih)",
+      "150 gram Jamur Kancing / Champignon (diiris)",
+      "3 siung Bawang putih (cincang)",
+      "½ buah Bawang Bombay (cincang)",
+      "150 ml Krim kental (heavy cream) atau susu UHT full cream",
+      "100 ml Kaldu ayam atau air",
+      "1 sdm Mentega / Butter",
+      "1 sdm Minyak goreng",
+      "1 sdt Merica hitam",
+      "Garam secukupnya"
     ],
     "steps": [
-      "Cincang bawang putih."
+      "Bumbui ayam dengan garam dan merica, diamkan 10 menit.",
+      "Panaskan minyak dan mentega di wajan api sedang-tinggi. Masak ayam hingga kedua sisi kecokelatan, angkat dan sisihkan.",
+      "Dengan sisa minyak di wajan, tumis bawang bombay dan bawang putih hingga harum dan layu.",
+      "Masukkan jamur, masak hingga layu dan sedikit kecokelatan (sekitar 3-4 menit).",
+      "Tuang kaldu ayam, biarkan mendidih sebentar lalu kecilkan api.",
+      "Tuang krim kental, aduk rata. Masak api kecil hingga saus mengental.",
+      "Masukkan kembali ayam, aduk dan koreksi rasa dengan garam dan merica.",
+      "Sajikan panas dengan nasi putih atau pasta."
     ],
-    "notes": "Ayam Sedap"
+    "notes": "Gunakan heavy cream untuk saus yang lebih kental dan kaya rasa. Susu UHT bisa jadi alternatif yang lebih ringan."
   },
   {
     "id": 7,
