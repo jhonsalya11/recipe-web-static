@@ -52,5 +52,231 @@
       "Sajikan dengan kerupuk dan acar."
     ],
     "notes": "Nasi dingin (nginep semalam di kulkas) hasilnya lebih pera dan tidak lembek."
+  },
+  {
+    "id": 3,
+    "title": "Nasi Goreng",
+    "category": "makanan",
+    "image": "",
+    "time": "25 menit",
+    "servings": "2 porsi",
+    "difficulty": "Mudah",
+    "tags": ["nasi", "goreng", "kecap", "telur"],
+    "ingredients": [
+      "300 gram Nasi putih",
+      "2 buah Telur ayam (kocok)",
+      "2 sdm Kecap manis",
+      "3 buah Bawang putih (cincang)",
+      "2 sdm Minyak goreng"
+    ],
+    "steps": [
+      "Panaskan minyak goreng dalam wajan dengan api sedang.",
+      "Tumis bawang putih cincang hingga harum dan kecokelatan.",
+      "Masukkan telur kocok, aduk hingga setengah matang, lalu masukkan nasi putih.",
+      "Tambahkan kecap manis, garam, dan merica. Aduk rata hingga bumbu meresap.",
+      "Masak hingga nasi goreng matang dan bumbu tercampur rata. Sajikan hangat."
+    ],
+    "notes": "Nasi goreng klasik dengan kecap manis dan telur"
+  },
+  {
+    "id": 4,
+    "title": "Ayam Lada Hitam",
+    "category": "makanan",
+    "image": "",
+    "time": "40 menit",
+    "servings": "1 porsi",
+    "difficulty": "Mudah",
+    "tags": ["ayam", "lada hitam"],
+    "ingredients": [
+      "3 buah Bawang putih",
+      "1 buah Paprika",
+      "2 sdm Saori Lada Hitam",
+      "1 sdm Saori Saus Tiram",
+      "1 sdm Kecap Asin",
+      "250 gram Dada Ayam Mentah"
+    ],
+    "steps": [
+      "Tumis Bawang Putih"
+    ],
+    "notes": "Dada ayam lada hitam jos gandos"
+  },
+  {
+    "id": 5,
+    "title": "Capcay",
+    "category": "makanan",
+    "image": "",
+    "time": "40 menit",
+    "servings": "1 porsi",
+    "difficulty": "Mudah",
+    "tags": ["capcay", "sayur"],
+    "ingredients": [
+      "3 buah Bawang putih",
+      "1 gram Jahe (Dikit Aja)",
+      "1 sdm Saori Saus Tiram",
+      "1 sdm Minyak Wijen"
+    ],
+    "steps": [
+      "Buat ramuan saus: Saus Tiram, Saus Tomat, Kecap Asin, Minyak Wijen, Lada, Garam, Kaldu Bubuk, Gula — aduk rata.",
+      "Orak-arik telur dan dada ayam, sisihkan.",
+      "Tumis bawang putih dan jahe hingga harum, masukkan protein (telur dan ayam).",
+      "Masukkan brokoli, buncis, wortel sampai agak matang, lalu masukkan kol dan sawi hijau.",
+      "Tambahkan air 200 ml, rebus sebentar lalu tuang ramuan saus.",
+      "Masukkan larutan maizena, aduk hingga saus mengental."
+    ],
+    "notes": "Capcay ala Willgoz"
+  },
+  {
+    "id": 6,
+    "title": "Ayam Creamy Mushroom",
+    "category": "makanan",
+    "image": "",
+    "time": "40 menit",
+    "servings": "1 porsi",
+    "difficulty": "Mudah",
+    "tags": ["ayam", "creamy", "jamur"],
+    "ingredients": [
+      "1 buah Bawang putih",
+      "1 sdt Merica",
+      "250 gram Dada Ayam Mentah",
+      "1 sdm Minyak goreng"
+    ],
+    "steps": [
+      "Cincang bawang putih."
+    ],
+    "notes": "Ayam Sedap"
+  },
+  {
+    "id": 7,
+    "title": "Ayam Cabe Garam",
+    "category": "makanan",
+    "image": "",
+    "time": "40 menit",
+    "servings": "2 porsi",
+    "difficulty": "Sedang",
+    "tags": ["ayam", "cabe", "garam", "pedas"],
+    "ingredients": [
+      "4 buah Bawang putih",
+      "250 gram Dada Ayam Mentah",
+      "1 gram Merica",
+      "1 gram Garam",
+      "1 buah Cabai Besar",
+      "4 buah Cabai Kecil",
+      "1 sdm Daun Bawang"
+    ],
+    "steps": [
+      "Marinasi: Campur dada ayam dengan 1 siung bawang putih cincang, 1/2 sdt garam, dan 1/4 sdt merica. Aduk rata dan diamkan minimal 15 menit.",
+      "Campurkan ayam dengan tepung maizena secukupnya.",
+      "Goreng ayam hingga berwarna kuning keemasan dan krispi. Angkat dan tiriskan.",
+      "Panaskan sedikit minyak baru (sekitar 2-3 sdm) dengan api sedang.",
+      "Masukkan bawang putih cincang dan cabai iris. Tumis hingga harum dan sedikit kering (sekitar 1-2 menit).",
+      "Kecilkan api. Masukkan garam dan kaldu jamur. Aduk cepat.",
+      "Masukkan ayam goreng krispi dan irisan daun bawang. Aduk rata."
+    ],
+    "notes": "Ayam cabe garam sedap mantap"
+  },
+  {
+    "id": 8,
+    "title": "Pakcoy Saus Tiram",
+    "category": "makanan",
+    "image": "",
+    "time": "30 menit",
+    "servings": "1 porsi",
+    "difficulty": "Mudah",
+    "tags": ["pakcoy", "saus tiram", "sayur"],
+    "ingredients": [
+      "2 buah Pakcoy",
+      "4 buah Bawang putih (Cincang)",
+      "1 sdm Saori Saus Tiram",
+      "1 sdm Minyak Wijen",
+      "1 sdm Kecap Asin"
+    ],
+    "steps": [
+      "Rebus pakcoy 3 menit, sisihkan.",
+      "Tumis bawang putih sampai harum.",
+      "Masukkan saus tiram, minyak wijen, kecap asin.",
+      "Tambahkan tepung maizena untuk mengentalkan saus.",
+      "Siram saus ke pakcoy yang sudah direbus."
+    ],
+    "notes": "Pakcoy siram saus tiram dan bawang putih sedap"
+  },
+  {
+    "id": 9,
+    "title": "Ayam Woku",
+    "category": "makanan",
+    "image": "",
+    "time": "30 menit",
+    "servings": "2 porsi",
+    "difficulty": "Sedang",
+    "tags": ["ayam", "woku", "pedas"],
+    "ingredients": [
+      "250 gram Dada Ayam Mentah",
+      "2 gram Bawang putih",
+      "4 gram Bawang Merah",
+      "1 gram Cabai Besar",
+      "2 buah Kemiri",
+      "1 buah Kunyit",
+      "1 buah Jahe",
+      "1 buah Kemangi"
+    ],
+    "steps": [
+      "Haluskan bumbu: bawang merah, bawang putih, cabai merah keriting (sesuai selera), kemiri, 1 ruas kunyit (atau ½ sdt bubuk), jahe.",
+      "Panaskan minyak, tumis bumbu halus hingga harum.",
+      "Masukkan serai, daun jeruk, dan pandan. Aduk sampai aromanya harum.",
+      "Masukkan ayam, aduk cepat sampai permukaan ayam berubah warna.",
+      "Tuang air, bumbui garam dan gula. Masak api sedang ±5-7 menit.",
+      "Koreksi rasa, matikan api, baru masukkan daun kemangi. Aduk dengan sisa panas."
+    ],
+    "notes": "ayam woku pedas mantap"
+  },
+  {
+    "id": 10,
+    "title": "Ayam Kare Jepang",
+    "category": "makanan",
+    "image": "",
+    "time": "30 menit",
+    "servings": "2 porsi",
+    "difficulty": "Mudah",
+    "tags": ["ayam", "kare", "jepang"],
+    "ingredients": [
+      "1 buah Bawang Bombay",
+      "250 gram Dada Ayam Mentah",
+      "1 buah Sasa Bumbu Kare Jepang",
+      "1 buah Kentang",
+      "1 buah Wortel"
+    ],
+    "steps": [
+      "Panaskan 1 sdm minyak di wajan atau panci dengan api kecil-sedang. Masukkan bawang bombay iris, tumis hingga layu lalu lanjutkan sampai cokelat keemasan dan harum (±10 menit).",
+      "Masukkan potongan dada ayam, aduk hingga ayam berubah warna di permukaan.",
+      "Tuang 500 ml air atau kaldu ayam ke dalam panci. Masukkan kentang dan wortel, aduk rata. Masak sampai kentang empuk.",
+      "Kecilkan api, lalu masukkan Sasa bumbu kare Jepang. Aduk hingga bumbu larut sempurna dan kuah menjadi kental.",
+      "Masukkan mentega, kecap Jepang/Worcestershire, dan apel parut (jika digunakan)."
+    ],
+    "notes": "ayam kare jepang, wortel, kentang"
+  },
+  {
+    "id": 11,
+    "title": "Ayam Saus Mentega",
+    "category": "makanan",
+    "image": "",
+    "time": "30 menit",
+    "servings": "2 porsi",
+    "difficulty": "Mudah",
+    "tags": ["ayam", "mentega", "saus"],
+    "ingredients": [
+      "4 buah Bawang putih",
+      "1 buah Cabai Besar",
+      "2 gram Cabai Kecil",
+      "250 gram Dada Ayam Mentah",
+      "1 gram Garam",
+      "1 gram Merica",
+      "1 gram Kecap Asin"
+    ],
+    "steps": [
+      "Marinasi ayam dengan bawang putih, merica, garam, dan maizena.",
+      "Goreng ayam hingga kecoklatan, sisihkan.",
+      "Api kecil, masak saus mentega: butter, 3 sdm Saori Saus Tiram, 1 sdm kecap manis, 1 sdt kecap asin, ½ sdt gula, 50 ml air, lada secukupnya, cabai (opsional).",
+      "Campurkan ayam ke dalam saus, sajikan."
+    ],
+    "notes": "Ayam saus mentega saori"
   }
 ]
