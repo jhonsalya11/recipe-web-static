@@ -278,5 +278,30 @@
       "Campurkan ayam ke dalam saus, sajikan."
     ],
     "notes": "Ayam saus mentega saori"
+  },
+  {
+    "id": 12,
+    "title": "AeroPress Japanese Iced Coffee",
+    "category": "kopi",
+    "image": "",
+    "time": "2 menit",
+    "servings": "1 gelas",
+    "difficulty": "Mudah",
+    "tags": ["kopi", "iced coffee", "aeropress", "japanese"],
+    "ingredients": [
+      "20 gram kopi giling medium-fine",
+      "150 gram es batu",
+      "170 gram air panas 88°C - 96°C"
+    ],
+    "steps": [
+      "Masukkan es batu ke dalam mug atau tumbler yang kokoh.",
+      "Pasang dua filter kertas AeroPress ke Flow Control Filter Cap, lalu pasang ke chamber AeroPress.",
+      "Masukkan kopi ke chamber AeroPress dan kocok perlahan agar rata.",
+      "Tuang air panas ke chamber dan aduk agar kopi basah merata. Gunakan suhu lebih rendah untuk kopi dark roast, suhu lebih tinggi untuk light roast.",
+      "Diamkan selama 1 menit 30 detik.",
+      "Pasang plunger dan tekan perlahan sehingga kopi panas langsung menetes ke atas es.",
+      "Nikmati selagi dingin."
+    ],
+    "notes": "Untuk dark roast gunakan suhu di kisaran bawah (88°C), untuk light roast gunakan suhu lebih tinggi (hingga 96°C). Kopi langsung menetes ke es menciptakan efek flash-chill khas Japanese iced coffee."
   }
 ]
