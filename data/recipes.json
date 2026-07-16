@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Kopi Susu Gula Aren",
+    "category": "kopi",
+    "image": "",
+    "time": "10 menit",
+    "servings": "1 gelas",
+    "difficulty": "Mudah",
+    "tags": ["kopi", "susu", "manis"],
+    "ingredients": [
+      "2 shot espresso (atau 30ml kopi hitam pekat)",
+      "150ml susu segar",
+      "3 sdm gula aren cair",
+      "Es batu secukupnya"
+    ],
+    "steps": [
+      "Tuang gula aren cair ke dasar gelas.",
+      "Masukkan es batu sampai penuh.",
+      "Tuang susu segar perlahan.",
+      "Tuang espresso di atasnya agar terbentuk layer.",
+      "Aduk sebelum diminum."
+    ],
+    "notes": "Gunakan susu full cream agar rasa lebih creamy."
+  },
+  {
+    "id": 2,
+    "title": "Nasi Goreng Kampung",
+    "category": "makanan",
+    "image": "",
+    "time": "20 menit",
+    "servings": "2 porsi",
+    "difficulty": "Mudah",
+    "tags": ["nasi", "pedas", "rumahan"],
+    "ingredients": [
+      "2 piring nasi putih dingin",
+      "2 butir telur",
+      "3 siung bawang putih, cincang",
+      "5 siung bawang merah, cincang",
+      "3 buah cabai merah, iris",
+      "2 sdm kecap manis",
+      "1 sdm terasi bakar",
+      "Garam dan gula secukupnya",
+      "Minyak untuk menumis"
+    ],
+    "steps": [
+      "Panaskan minyak, tumis bawang putih dan bawang merah hingga harum.",
+      "Masukkan cabai dan terasi, tumis sebentar.",
+      "Sisihkan bumbu, orak-arik telur di wajan yang sama.",
+      "Campurkan nasi, aduk rata dengan bumbu dan telur.",
+      "Tambahkan kecap manis, garam, dan gula. Aduk hingga rata dan matang.",
+      "Sajikan dengan kerupuk dan acar."
+    ],
+    "notes": "Nasi dingin (nginep semalam di kulkas) hasilnya lebih pera dan tidak lembek."
+  }
+]
