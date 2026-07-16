@@ -75,7 +75,7 @@ function openModal(recipe) {
       <span>📊 ${escapeHtml(recipe.difficulty)}</span>
     </div>
     <div class="modal-nutrition">
-      <h3>📊 Informasi Gizi <span class="nutrition-note">(per porsi, estimasi)</span></h3>
+      <h3>📊 Informasi Gizi <span class="nutrition-note">(total resep, estimasi)</span></h3>
       <div class="macro-grid">
         <div class="macro-item"><span class="macro-value">${recipe.nutrition.calories}</span><span class="macro-label">Kalori</span></div>
         <div class="macro-item"><span class="macro-value">${recipe.nutrition.protein}g</span><span class="macro-label">Protein</span></div>

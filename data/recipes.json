@@ -32,7 +32,7 @@
     "time": "20 menit",
     "servings": "2 porsi",
     "difficulty": "Mudah",
-    "nutrition": { "calories": 420, "protein": 12, "carbs": 60, "fat": 14 },
+    "nutrition": { "calories": 840, "protein": 24, "carbs": 120, "fat": 28 },
     "tags": ["nasi", "pedas", "rumahan"],
     "ingredients": [
       "2 piring nasi putih dingin",
@@ -63,7 +63,7 @@
     "time": "25 menit",
     "servings": "2 porsi",
     "difficulty": "Mudah",
-    "nutrition": { "calories": 380, "protein": 11, "carbs": 55, "fat": 12 },
+    "nutrition": { "calories": 760, "protein": 22, "carbs": 110, "fat": 24 },
     "tags": ["nasi", "goreng", "kecap", "telur"],
     "ingredients": [
       "300 gram Nasi putih",
@@ -89,7 +89,7 @@
     "time": "40 menit",
     "servings": "2 porsi",
     "difficulty": "Mudah",
-    "nutrition": { "calories": 350, "protein": 28, "carbs": 15, "fat": 18 },
+    "nutrition": { "calories": 700, "protein": 56, "carbs": 30, "fat": 36 },
     "tags": ["ayam", "lada hitam"],
     "ingredients": [
       "250 gram Dada Ayam Mentah (dipotong dadu atau strip)",
@@ -152,7 +152,7 @@
     "time": "40 menit",
     "servings": "2 porsi",
     "difficulty": "Mudah",
-    "nutrition": { "calories": 380, "protein": 32, "carbs": 10, "fat": 22 },
+    "nutrition": { "calories": 760, "protein": 64, "carbs": 20, "fat": 44 },
     "tags": ["ayam", "creamy", "jamur"],
     "ingredients": [
       "250 gram Dada Ayam Mentah (diiris tipis atau dipukul pipih)",
@@ -186,7 +186,7 @@
     "time": "40 menit",
     "servings": "2 porsi",
     "difficulty": "Sedang",
-    "nutrition": { "calories": 420, "protein": 28, "carbs": 22, "fat": 24 },
+    "nutrition": { "calories": 840, "protein": 56, "carbs": 44, "fat": 48 },
     "tags": ["ayam", "cabe", "garam", "pedas"],
     "ingredients": [
       "4 buah Bawang putih",
@@ -242,7 +242,7 @@
     "time": "30 menit",
     "servings": "2 porsi",
     "difficulty": "Sedang",
-    "nutrition": { "calories": 380, "protein": 30, "carbs": 12, "fat": 20 },
+    "nutrition": { "calories": 760, "protein": 60, "carbs": 24, "fat": 40 },
     "tags": ["ayam", "woku", "pedas"],
     "ingredients": [
       "250 gram Dada Ayam Mentah",
@@ -272,7 +272,7 @@
     "time": "30 menit",
     "servings": "2 porsi",
     "difficulty": "Mudah",
-    "nutrition": { "calories": 450, "protein": 25, "carbs": 45, "fat": 18 },
+    "nutrition": { "calories": 900, "protein": 50, "carbs": 90, "fat": 36 },
     "tags": ["ayam", "kare", "jepang"],
     "ingredients": [
       "1 buah Bawang Bombay",
@@ -298,7 +298,7 @@
     "time": "30 menit",
     "servings": "2 porsi",
     "difficulty": "Mudah",
-    "nutrition": { "calories": 360, "protein": 28, "carbs": 12, "fat": 22 },
+    "nutrition": { "calories": 720, "protein": 56, "carbs": 24, "fat": 44 },
     "tags": ["ayam", "mentega", "saus"],
     "ingredients": [
       "4 buah Bawang putih",
