@@ -57,6 +57,7 @@ function render() {
         <div class="card-meta">
           <span>⏱ ${escapeHtml(recipe.time)}</span>
           <span>🍽 ${escapeHtml(recipe.servings)}</span>
+          <span class="cal-badge">🔥 ${recipe.nutrition.calories} kal</span>
         </div>
       </div>
     `;
@@ -72,6 +73,15 @@ function openModal(recipe) {
       <span>⏱ ${escapeHtml(recipe.time)}</span>
       <span>🍽 ${escapeHtml(recipe.servings)}</span>
       <span>📊 ${escapeHtml(recipe.difficulty)}</span>
+    </div>
+    <div class="modal-nutrition">
+      <h3>📊 Informasi Gizi <span class="nutrition-note">(per porsi, estimasi)</span></h3>
+      <div class="macro-grid">
+        <div class="macro-item"><span class="macro-value">${recipe.nutrition.calories}</span><span class="macro-label">Kalori</span></div>
+        <div class="macro-item"><span class="macro-value">${recipe.nutrition.protein}g</span><span class="macro-label">Protein</span></div>
+        <div class="macro-item"><span class="macro-value">${recipe.nutrition.carbs}g</span><span class="macro-label">Karbo</span></div>
+        <div class="macro-item"><span class="macro-value">${recipe.nutrition.fat}g</span><span class="macro-label">Lemak</span></div>
+      </div>
     </div>
     <h3>Bahan</h3>
     <ul>${recipe.ingredients.map(i => `<li>${escapeHtml(i)}</li>`).join('')}</ul>

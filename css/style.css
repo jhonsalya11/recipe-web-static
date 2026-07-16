@@ -253,6 +253,62 @@ body {
   font-size: 0.9rem;
 }
 
+/* Card — kalori badge */
+.cal-badge {
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+/* Modal — nutrition section */
+.modal-nutrition {
+  background: #f4faf0;
+  border: 1px solid #c8e6c0;
+  border-radius: 10px;
+  padding: 14px 16px;
+  margin-bottom: 18px;
+}
+
+.modal-nutrition h3 {
+  color: #3a6e2f;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.nutrition-note {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  font-weight: 400;
+}
+
+.macro-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  text-align: center;
+}
+
+.macro-item {
+  background: #fff;
+  border-radius: 8px;
+  padding: 10px 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.macro-value {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--color-primary-dark);
+}
+
+.macro-label {
+  font-size: 0.72rem;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
 /* Footer */
 .site-footer {
   text-align: center;
