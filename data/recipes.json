@@ -303,5 +303,29 @@
       "Nikmati selagi dingin."
     ],
     "notes": "Untuk dark roast gunakan suhu di kisaran bawah (88°C), untuk light roast gunakan suhu lebih tinggi (hingga 96°C). Kopi langsung menetes ke es menciptakan efek flash-chill khas Japanese iced coffee."
+  },
+  {
+    "id": 13,
+    "title": "AeroPress Iced Coffee (Standard Position)",
+    "category": "kopi",
+    "image": "",
+    "time": "2 menit",
+    "servings": "1 gelas",
+    "difficulty": "Mudah",
+    "tags": ["kopi", "iced coffee", "aeropress"],
+    "ingredients": [
+      "15 gram kopi giling medium-fine (medium-dark roast, Colombian recommended)",
+      "200 gram es batu",
+      "200 gram air panas 93°C / 199°F",
+      "2 lembar filter kertas AeroPress"
+    ],
+    "steps": [
+      "Masukkan 200g es batu ke dalam mug, lalu letakkan chamber AeroPress di atasnya.",
+      "Pasang 2 filter kertas, lalu masukkan 15g kopi ke chamber.",
+      "Tuang 20g air panas ke atas kopi untuk bloom, diamkan 30 detik.",
+      "Tuang sisa air (180g), lalu diamkan hingga timer menunjukkan 1:30.",
+      "Plunge perlahan selama sekitar 30 detik."
+    ],
+    "notes": "Gunakan kopi medium-dark roast seperti Colombian untuk hasil terbaik. Bloom 30 detik di awal membantu gas CO2 keluar agar ekstraksi lebih merata."
   }
 ]
