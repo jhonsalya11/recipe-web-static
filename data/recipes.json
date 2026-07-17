@@ -1,87 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "Kopi Susu Gula Aren",
-    "category": "kopi",
-    "image": "",
-    "time": "10 menit",
-    "servings": "1 gelas",
-    "difficulty": "Mudah",
-    "nutrition": { "calories": 190, "protein": 4, "carbs": 26, "fat": 6 },
-    "tags": ["kopi", "susu", "manis"],
-    "ingredients": [
-      "2 shot espresso (atau 30ml kopi hitam pekat)",
-      "150ml susu segar",
-      "3 sdm gula aren cair",
-      "Es batu secukupnya"
-    ],
-    "steps": [
-      "Tuang gula aren cair ke dasar gelas.",
-      "Masukkan es batu sampai penuh.",
-      "Tuang susu segar perlahan.",
-      "Tuang espresso di atasnya agar terbentuk layer.",
-      "Aduk sebelum diminum."
-    ],
-    "notes": "Gunakan susu full cream agar rasa lebih creamy."
-  },
-  {
-    "id": 2,
-    "title": "Nasi Goreng Kampung",
-    "category": "makanan",
-    "image": "",
-    "time": "20 menit",
-    "servings": "2 porsi",
-    "difficulty": "Mudah",
-    "nutrition": { "calories": 840, "protein": 24, "carbs": 120, "fat": 28 },
-    "tags": ["nasi", "pedas", "rumahan"],
-    "ingredients": [
-      "2 piring nasi putih dingin",
-      "2 butir telur",
-      "3 siung bawang putih, cincang",
-      "5 siung bawang merah, cincang",
-      "3 buah cabai merah, iris",
-      "2 sdm kecap manis",
-      "1 sdm terasi bakar",
-      "Garam dan gula secukupnya",
-      "Minyak untuk menumis"
-    ],
-    "steps": [
-      "Panaskan minyak, tumis bawang putih dan bawang merah hingga harum.",
-      "Masukkan cabai dan terasi, tumis sebentar.",
-      "Sisihkan bumbu, orak-arik telur di wajan yang sama.",
-      "Campurkan nasi, aduk rata dengan bumbu dan telur.",
-      "Tambahkan kecap manis, garam, dan gula. Aduk hingga rata dan matang.",
-      "Sajikan dengan kerupuk dan acar."
-    ],
-    "notes": "Nasi dingin (nginep semalam di kulkas) hasilnya lebih pera dan tidak lembek."
-  },
-  {
-    "id": 3,
-    "title": "Nasi Goreng",
-    "category": "makanan",
-    "image": "",
-    "time": "25 menit",
-    "servings": "2 porsi",
-    "difficulty": "Mudah",
-    "nutrition": { "calories": 760, "protein": 22, "carbs": 110, "fat": 24 },
-    "tags": ["nasi", "goreng", "kecap", "telur"],
-    "ingredients": [
-      "300 gram Nasi putih",
-      "2 buah Telur ayam (kocok)",
-      "2 sdm Kecap manis",
-      "3 buah Bawang putih (cincang)",
-      "2 sdm Minyak goreng"
-    ],
-    "steps": [
-      "Panaskan minyak goreng dalam wajan dengan api sedang.",
-      "Tumis bawang putih cincang hingga harum dan kecokelatan.",
-      "Masukkan telur kocok, aduk hingga setengah matang, lalu masukkan nasi putih.",
-      "Tambahkan kecap manis, garam, dan merica. Aduk rata hingga bumbu meresap.",
-      "Masak hingga nasi goreng matang dan bumbu tercampur rata. Sajikan hangat."
-    ],
-    "notes": "Nasi goreng klasik dengan kecap manis dan telur"
-  },
-  {
     "id": 4,
     "title": "Ayam Lada Hitam",
     "category": "makanan",
@@ -319,7 +237,7 @@
   },
   {
     "id": 12,
-    "title": "AeroPress Japanese Iced Coffee",
+    "title": "AeroPress Iced Coffee (20gr)",
     "category": "kopi",
     "image": "",
     "time": "2 menit",
@@ -345,7 +263,7 @@
   },
   {
     "id": 13,
-    "title": "AeroPress Iced Coffee (Standard Position)",
+    "title": "AeroPress Iced Coffee (15gr)",
     "category": "kopi",
     "image": "",
     "time": "2 menit",
