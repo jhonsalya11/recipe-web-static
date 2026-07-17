@@ -367,5 +367,34 @@
       "Plunge perlahan selama sekitar 30 detik."
     ],
     "notes": "Gunakan kopi medium-dark roast seperti Colombian untuk hasil terbaik. Bloom 30 detik di awal membantu gas CO2 keluar agar ekstraksi lebih merata."
+  },
+  {
+    "id": 14,
+    "title": "AeroPress 2 Cup 1 Brew",
+    "category": "kopi",
+    "image": "",
+    "time": "4 menit",
+    "servings": "1 gelas",
+    "difficulty": "Mudah",
+    "nutrition": { "calories": 15, "protein": 0, "carbs": 2, "fat": 0 },
+    "tags": ["kopi", "aeropress", "inverted", "hot coffee"],
+    "ingredients": [
+      "30 gram kopi giling medium-fine (17 clicks Timemore Chestnut C2)",
+      "250 ml air panas",
+      "150 ml air untuk dilusi",
+      "1 lembar filter kertas AeroPress"
+    ],
+    "steps": [
+      "Panaskan thermomug/server dan AeroPress dengan air hangat, lalu buang airnya.",
+      "Bilas filter kertas dengan air panas.",
+      "Letakkan AeroPress di atas mug/server (posisi normal) dan masukkan bubuk kopi.",
+      "Tuang 250 ml air panas hingga hampir penuh.",
+      "Aduk perlahan selama 15 detik.",
+      "Pasang plunger untuk menghentikan air menetes melalui filter.",
+      "Tunggu hingga timer menunjukkan 2:00.",
+      "Pada menit ke-2:00, tekan plunger selama 30-40 detik.",
+      "Tambahkan 150 ml air untuk dilusi, sajikan."
+    ],
+    "notes": "Pasang plunger segera setelah menuang air agar tidak menetes sebelum waktunya. Total cup 400ml dengan profil rasa yang bersih dan seimbang."
   }
 ]
